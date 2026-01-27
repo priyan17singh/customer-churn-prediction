@@ -5,13 +5,6 @@ The application is built with **TensorFlow**, **Streamlit**, and deployed on **S
 
 ---
 
-## 🌐 Live Demo
-
-👉 **Live App:** https://<your-app-name>.streamlit.app  
-*(Replace with your Streamlit Cloud URL)*
-
----
-
 ## 📸 Preview
 
 ![Customer Churn Prediction App](./assets/preview.png)  
