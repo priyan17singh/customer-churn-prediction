@@ -5,6 +5,12 @@ The application is built with **TensorFlow**, **Streamlit**, and deployed on **S
 
 ---
 
+## 🌐 Live Demo  
+
+👉 [**Try it here**](https://customer-churn-prediction--priyan17singh.replit.app)
+
+---
+
 ## 📸 Preview
 
 ![Customer Churn Prediction App](./assets/preview.png)  
